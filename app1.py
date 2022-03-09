@@ -1,6 +1,3 @@
-from re import S
-
-
 print("Hello World")
 print("Hola mundo")
 
